@@ -19,8 +19,8 @@ OPENWEATHER_API_KEY=ea2b9cc4f254b14038effdf8ec1ab86a
 
 ### 1. Clone the Repository
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/Fernando9200/GermanClimateTracker
+cd GermanClimateTracker
 ```
 
 ### 2. Database Setup
