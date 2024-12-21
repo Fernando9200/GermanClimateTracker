@@ -10,10 +10,7 @@ Before you begin, ensure you have the following installed:
 - SQL Server Express (2019 or later) and SQL Server Management Studio (Recommended)
 
 ## Required API Keys
-- OpenWeather API key (Get it from [OpenWeather](https://openweathermap.org/api)) or, for testing purposes, you can use mine:
-```bash
-OPENWEATHER_API_KEY=ea2b9cc4f254b14038effdf8ec1ab86a
-```
+- OpenWeather API key (Get it from [OpenWeather](https://openweathermap.org/api))
 
 ## Installation Steps
 
